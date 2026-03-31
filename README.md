@@ -81,9 +81,6 @@ pip install -r requirements.txt
 Run the model:
 python python/modeling/aqi_forecast.py
 
-Notes:
-Dataset is not included due to size
-It can be added manually in the data folder
 
 Future Work:
 Try deep learning models like LSTM
